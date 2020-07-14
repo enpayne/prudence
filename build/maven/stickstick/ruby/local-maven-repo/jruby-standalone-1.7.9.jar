@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Three Crickets Repository</title>
+</head>
+<body>
+<h2>Three Crickets Repository</h2>
+<p>Welcome! You seem to be accessing this Maven-style software repository with a web browser, which is not the best way to use it.</p>
+<p>Please see the main site at <b>http://threecrickets.com/repository/</b> for detailed instructions.</p>
+<hr/>
+<pre>
+<a href="../">../</a>
+<a href="jruby-standalone-1.7.9.jar">jruby-standalone-1.7.9.jar</a>
+<a href="jruby-standalone-1.7.9.jar.md5">jruby-standalone-1.7.9.jar.md5</a>
+<a href="jruby-standalone-1.7.9.jar.sha1">jruby-standalone-1.7.9.jar.sha1</a>
+<a href="jruby-standalone-1.7.9.pom">jruby-standalone-1.7.9.pom</a>
+<a href="jruby-standalone-1.7.9.pom.md5">jruby-standalone-1.7.9.pom.md5</a>
+<a href="jruby-standalone-1.7.9.pom.sha1">jruby-standalone-1.7.9.pom.sha1</a>
+</pre>
+</body>
+</html>

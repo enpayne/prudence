@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Three Crickets Repository</title>
+</head>
+<body>
+<h2>Three Crickets Repository</h2>
+<p>Welcome! You seem to be accessing this Maven-style software repository with a web browser, which is not the best way to use it.</p>
+<p>Please see the main site at <b>http://threecrickets.com/repository/</b> for detailed instructions.</p>
+<hr/>
+<pre>
+<a href="../">../</a>
+<a href="zuss-1.0.0.jar">zuss-1.0.0.jar</a>
+<a href="zuss-1.0.0.jar.md5">zuss-1.0.0.jar.md5</a>
+<a href="zuss-1.0.0.jar.sha1">zuss-1.0.0.jar.sha1</a>
+<a href="zuss-1.0.0.pom">zuss-1.0.0.pom</a>
+<a href="zuss-1.0.0.pom.md5">zuss-1.0.0.pom.md5</a>
+<a href="zuss-1.0.0.pom.sha1">zuss-1.0.0.pom.sha1</a>
+</pre>
+</body>
+</html>

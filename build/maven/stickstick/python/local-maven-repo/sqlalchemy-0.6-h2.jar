@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Three Crickets Repository</title>
+</head>
+<body>
+<h2>Three Crickets Repository</h2>
+<p>Welcome! You seem to be accessing this Maven-style software repository with a web browser, which is not the best way to use it.</p>
+<p>Please see the main site at <b>http://threecrickets.com/repository/</b> for detailed instructions.</p>
+<hr/>
+<pre>
+<a href="../">../</a>
+<a href="sqlalchemy-0.6-h2.jar">sqlalchemy-0.6-h2.jar</a>
+<a href="sqlalchemy-0.6-h2.jar.md5">sqlalchemy-0.6-h2.jar.md5</a>
+<a href="sqlalchemy-0.6-h2.jar.sha1">sqlalchemy-0.6-h2.jar.sha1</a>
+<a href="sqlalchemy-0.6-h2.pom">sqlalchemy-0.6-h2.pom</a>
+<a href="sqlalchemy-0.6-h2.pom.md5">sqlalchemy-0.6-h2.pom.md5</a>
+<a href="sqlalchemy-0.6-h2.pom.sha1">sqlalchemy-0.6-h2.pom.sha1</a>
+</pre>
+</body>
+</html>

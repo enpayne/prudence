@@ -51,7 +51,7 @@
 		<module>prudence</module>
 		<module>prudence-javascript-library</module>
 		<module>skeleton</module>
-		<!--<module>skeleton-jvm6</module>-->
+		<module>skeleton-jvm6</module>
 		<module>skeleton-jvm7</module>
 		<module>skeleton-jvm8</module>
 		<module>cluster</module>

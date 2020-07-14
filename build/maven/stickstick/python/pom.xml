@@ -62,6 +62,8 @@
 			<groupId>org.sqlalchemy</groupId>
 			<artifactId>sqlalchemy</artifactId>
 			<version>0.6-h2</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/local-maven-repo/sqlalchemy-0.6-h2.jar</systemPath>
 		</dependency>
 	</dependencies>
 

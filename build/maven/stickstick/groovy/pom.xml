@@ -61,12 +61,14 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json-java</artifactId>
-			<version>[1,1.1)</version>
+			<version>2.0-NEXUS-3758</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/local-maven-repo/json-java-2.0-NEXUS-3758.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-dbcp</artifactId>
-			<version>[2.0,2.1)</version>
+			<artifactId>commons-dbcp2</artifactId>
+			<version>2.0.1</version>
 		</dependency>
 	</dependencies>
 
