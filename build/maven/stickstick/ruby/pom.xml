@@ -56,7 +56,7 @@
 		<dependency>
 			<groupId>org.jruby</groupId>
 			<artifactId>jruby-standalone</artifactId>
-			<version>[1.7,1.8)</version>
+			<version>2.0-NEXUS-3758</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/local-maven-repo/json-java-2.0-NEXUS-3758.jar</systemPath>
 		</dependency>
