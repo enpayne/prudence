@@ -92,7 +92,7 @@
 			<module group="org.mongodb" name="mongodb-driver-core" version="3.0+" />
 			<module group="org.mongodb" name="bson" version="3.0+" />
 			<module group="com.orientechnologies" name="orientdb-core" version="1.1+" />
-			<module group="org.restlet.jse" name="org.restlet" version="2.4" />
+			<module group="org.restlet.jse" name="org.restlet" version="2.4.0" />
 			<module group="org.restlet.jse" name="org.restlet.ext.fileupload" version="2.3+" />
 			<module group="com.threecrickets.scripturian" name="scripturian" version="1.1.10" />
 			<module group="javax.servlet" name="servlet-api" version="2.5+" />
